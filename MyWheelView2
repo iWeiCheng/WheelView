@@ -19,7 +19,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 /**
- * Created by pactera on 2017/4/12.
+ * Created by dan on 2017/5/11.
  */
 
 public class MyWheelView2 extends FrameLayout {
