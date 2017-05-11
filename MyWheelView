@@ -16,7 +16,7 @@ import android.view.View;
 import java.util.ArrayList;
 
 /**
- * Created by pactera on 2017/4/5.
+ * Created by dan on 2017/5/11.
  */
 
 public class MyWheelView extends View {
